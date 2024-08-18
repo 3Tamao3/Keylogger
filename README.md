@@ -19,6 +19,7 @@ Risks and Ethical Considerations:
 Keyloggers pose significant privacy and security risks. If used without proper authorization, they can violate personal privacy and lead to severe consequences, including identity theft, financial loss, and legal repercussions. It is crucial to understand that while keyloggers have legitimate applications, their misuse is both illegal and unethical.
 
 Preview->
+
 ![image](https://github.com/user-attachments/assets/66de91fe-c44e-4541-ae3c-0b2d3a6b3121)
 
 ![image](https://github.com/user-attachments/assets/17c52b99-bdb9-4ea2-adde-101bc746c8c5)
