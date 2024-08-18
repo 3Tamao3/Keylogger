@@ -1,4 +1,4 @@
-#Important Note: A keylogger should never be used for malicious activities, such as stealing personal information, passwords, or other sensitive data without consent. Unauthorized use of a keylogger is illegal and unethical.
+# Important Note: A keylogger should never be used for malicious activities, such as stealing personal information, passwords, or other sensitive data without consent. Unauthorized use of a keylogger is illegal and unethical.
 What is a Keylogger?
 
 A keylogger is a type of software or hardware tool designed to record every keystroke made on a keyboard. Keyloggers can be used for various legitimate purposes, such as monitoring employee activity, debugging software, or recovering lost data. However, they are more commonly associated with malicious activities, where they are used by cybercriminals to steal sensitive information like passwords, credit card numbers, and other private data.
